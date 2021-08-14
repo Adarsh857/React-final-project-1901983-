@@ -34,13 +34,8 @@ const sidebarLinks = [
 		classes: ["sidebar-links"],
 		path: "transactions",
 	},
-	{
-		id: 6,
-		label: "About",
-		icon: <i class="fab fa-acquisitions-incorporated"></i>,
-		classes: ["sidebar-links"],
-		path: "orders",
-	},
+
+		
 ];
 
 export default sidebarLinks
